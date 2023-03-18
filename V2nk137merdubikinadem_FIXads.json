@@ -1,0 +1,139 @@
+﻿
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-7435658436136399/2801119627",
+      "main_ads_intertitial":"ca-app-pub-7435658436136399/6221775298",
+      "main_ads_natives":"ca-app-pub-7435658436136399/7774244705",
+      "main_ads_rewards":"ca-app-pub-7435658436136399/7478731230",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"ca-app-pub-7435658436136399/8101547762",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"2",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  
+  "Data":   
+[
+    {
+        "id": "1",
+        "name_category": "Lagu Sholawat Merdu Bikin Adem di Hati",
+        "title": "Astagfirullah",
+        "image": "file:///android_asset/image/137_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/sholawat-sholawat-yaasin-2/Sholawat%20-%20Astagfirullah.ogg",
+        "lyrics": "<p style=\"text-align: center;\">Bila kau menangis saat mendengarkan Quran atau pun Sholawat, sesungguhnya masih ada iman di dalam hatimu...</p>"
+    },
+    {
+        "id": "2",
+        "name_category": "Lagu Sholawat Merdu Bikin Adem di Hati",
+        "title": "Sholawat Yaasin",
+        "image": "file:///android_asset/image/137_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/sholawat-sholawat-yaasin-2/Sholawat%20-%20Sholawat%20Yaasin.ogg",
+        "lyrics": "<p style=\"text-align: center;\">Bismillah membiasakan mndengar dan melantunkan sholawat kpada Nabi dari bngun Mata smpai tidur kmbali.. aamiin</p>"
+    },
+    {
+        "id": "3",
+        "name_category": "Lagu Sholawat Merdu Bikin Adem di Hati",
+        "title": "Ya Robbi Bil Musthofa",
+        "image": "file:///android_asset/image/137_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/sholawat-sholawat-yaasin-2/Sholawat%20-%20Ya%20Robbi%20Bil%20Musthofa.ogg",
+        "lyrics": "<p style=\"text-align: center;\">Semoga yang memutar sholawat ini akan dibahagiakan hidupnya didunia dan akherat.</p>"
+    },
+    {
+        "id": "4",
+        "name_category": "Lagu Sholawat Merdu Bikin Adem di Hati",
+        "title": "Assamualaik",
+        "image": "file:///android_asset/image/137_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/sholawat-sholawat-yaasin-2/Sholawat%20-%20Assamualaik.ogg",
+        "lyrics": "<p style=\"text-align: center;\">Penyejuk hati di pagi hari,,,masya Allah</p>"
+    },
+    {
+        "id": "5",
+        "name_category": "Lagu Sholawat Merdu Bikin Adem di Hati",
+        "title": "Ya Sayyidi",
+        "image": "file:///android_asset/image/137_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/sholawat-sholawat-yaasin-2/Sholawat%20-%20Ya%20Sayyidi.ogg",
+        "lyrics": "<p style=\"text-align: center;\">Terasa tenang hati ini mendengar sholawat nabi,smoga kita mendapat syafaatnya..amin</p>"
+    },
+    {
+        "id": "6",
+        "name_category": "Lagu Sholawat Merdu Bikin Adem di Hati",
+        "title": "Maulana",
+        "image": "file:///android_asset/image/137_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/sholawat-sholawat-yaasin-2/Sholawat%20-%20Maulana.ogg",
+        "lyrics": "<p style=\"text-align: center;\">Shalawat..semoga mendapat kan keberkahan dan syafa'at dari baginda nabi besar muhammad SAW di hari akhir nanti. Aamiin yaa robbal'aalamiin</p>"
+    },
+    {
+        "id": "7",
+        "name_category": "Lagu Sholawat Merdu Bikin Adem di Hati",
+        "title": "Qod Kaffan",
+        "image": "file:///android_asset/image/137_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/sholawat-sholawat-yaasin-2/Sholawat%20-%20Qod%20Kaffan.ogg",
+        "lyrics": "<p style=\"text-align: center;\">Bikin hati merinding mendengar dendangan istighfar ini </p>"
+    },
+    {
+        "id": "8",
+        "name_category": "Lagu Sholawat Merdu Bikin Adem di Hati",
+        "title": "Robbi Fajal",
+        "image": "file:///android_asset/image/137_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/sholawat-sholawat-yaasin-2/Sholawat%20-%20Robbi%20Fajal.ogg",
+        "lyrics": "<p style=\"text-align: center;\">Mendengar lantunan sholawat nabi hati tenang semoga apa yg kita harapkan dikabulkan Alloh .. Aamiin</p>"
+    },
+    {
+        "id": "9",
+        "name_category": "Lagu Sholawat Merdu Bikin Adem di Hati",
+        "title": "Sholawat Berdah",
+        "image": "file:///android_asset/image/137_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/sholawat-sholawat-yaasin-2/Sholawat%20-%20Sholawat%20Berdah.ogg",
+        "lyrics": "<p style=\"text-align: center;\">BISMILLAH....Ya ALLOH Umatmu merasa bersyukur dan alkamdulilah dengarin alunan sholawat dg suara merdu adem dihati  yg memdengarkan smg dpt safaatnya kanjeng Nabi amin 3x</p>"
+    },
+    {
+        "id": "10",
+        "name_category": "Lagu Sholawat Merdu Bikin Adem di Hati",
+        "title": "Sholawat Yaasin",
+        "image": "file:///android_asset/image/137_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/sholawat-sholawat-yaasin-2/Sholawat%20-%20Sholawat%20Yaasin%20%282%29.ogg",
+        "lyrics": "<p style=\"text-align: center;\">Adem hati sejuk d jiwa, masallah sholawat Nabi bikin terang mata kita memperkuat ke islaman kita,,, four you,,,</p>"
+    },
+    {
+        "id": "11",
+        "name_category": "Lagu Sholawat Merdu Bikin Adem di Hati",
+        "title": "Ya Robbi Bil Musthofa",
+        "image": "file:///android_asset/image/137_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/sholawat-sholawat-yaasin-2/Sholawat%20-%20Ya%20Robbi%20Bil%20Musthofa%20%282%29.ogg",
+        "lyrics": "<p style=\"text-align: center;\">Masya Allah, adem hati denger sholawat nabi, nggak bosan-bosan dengerin ulang</p>"
+    },
+    {
+        "id": "12",
+        "name_category": "Lagu Sholawat Merdu Bikin Adem di Hati",
+        "title": "Assalaamu Alaik",
+        "image": "file:///android_asset/image/137_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/sholawat-sholawat-yaasin-2/Sholawat%20-%20Assalaamu%20Alaik.ogg",
+        "lyrics": "<p style=\"text-align: center;\">Siapapun orangnya kalau mendengarkan shalawat ini dengan renungan pasti meneteskan air mata...</p>"
+    },
+    {
+        "id": "13",
+        "name_category": "Lagu Sholawat Merdu Bikin Adem di Hati",
+        "title": "Yaa Sayyidi",
+        "image": "file:///android_asset/image/137_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/sholawat-sholawat-yaasin-2/Sholawat%20-%20Yaa%20Sayyidi.ogg",
+        "lyrics": "<p style=\"text-align: center;\">Masya Allah sungguh luar biasa sangat merdu banget suara sholawatannya adem menyejukan hati dan pikiran setelah mendengarkan sholawat moga yang bersholawat sehat selalu selamanya dan selalu di lindungi Allah SWT Aamiin </p>"		
+    }
+]
+}
